@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿try
+{
+	PicoGK.Library.Go(0.5f, PicoGKExamples.BooleanShowCase.Task);
+}
+
+catch (Exception e)
+{
+	// Apparently something went wrong, output here
+	Console.WriteLine(e);
+}

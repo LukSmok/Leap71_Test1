@@ -1,0 +1,15 @@
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\bin\Debug\net8.0\Leap71_Test1.exe
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\bin\Debug\net8.0\Leap71_Test1.deps.json
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\bin\Debug\net8.0\Leap71_Test1.runtimeconfig.json
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\bin\Debug\net8.0\Leap71_Test1.dll
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\bin\Debug\net8.0\Leap71_Test1.pdb
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\Leap71_Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\Leap71_Test1.AssemblyInfoInputs.cache
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\Leap71_Test1.AssemblyInfo.cs
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\Leap71_Test1.csproj.CoreCompileInputs.cache
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\Leap71_Test1.sourcelink.json
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\Leap71_Test1.dll
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\refint\Leap71_Test1.dll
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\Leap71_Test1.pdb
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\Leap71_Test1.genruntimeconfig.cache
+C:\Development\Leap71\Leap71_Test1\Leap71_Test1\obj\Debug\net8.0\ref\Leap71_Test1.dll
